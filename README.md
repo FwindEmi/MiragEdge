@@ -1,8 +1,8 @@
 ![](screenshots/logo.jpg)
 
-# LandEX - 新一代的地皮管理插件
+# MiragEdge - 锐界幻境fwq
 
-LandEX是一个基于LLSE的MC地皮管理插件，基于JavaScript为玩家带来高效便捷的地皮使用体验。插件原生支持真指令注册，服内大量GUI管理，并可与OrgEX、LandEX与DrawLine插件联动。
+MiragEdge是一个基岩版养老生存服务器。
 
 ### 联系作者
 
