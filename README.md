@@ -1,6 +1,6 @@
 ![](screenshots/logo.jpg)
 
-# MiragEdge - 锐界幻境fwq
+# MiragEdge - 锐界幻境服务器
 
 MiragEdge是一个基岩版养老生存服务器。
 
