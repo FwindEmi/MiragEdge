@@ -1,4 +1,4 @@
-![](screenshots/logo.jpg)
+![](/logo.png)
 
 # MiragEdge - 锐界幻境服务器
 
