@@ -4,9 +4,9 @@
 
 MiragEdge是一个基岩版养老生存服务器。
 
-### 联系作者
+### 联系腐竹
 
-| <img title="" src="https://avatars.githubusercontent.com/u/67225334" alt="https://avatars.githubusercontent.com/u/67225334" width="125"> | https://github.com/VoryWork |
+| <img title="" src="链接" alt="连接" width="125"> | 链接 |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
 
 ## 特性
